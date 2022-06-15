@@ -1,0 +1,11 @@
+{
+    "_template": "git@github.com:Peltarion/Experimentator-3000.git",
+    "default_branch_name": "master",
+    "generate_example_folder": "yes",
+    "init_git": "yes",
+    "module_name": "thesis_eliott",
+    "project_description": "Repository for master thesis work of Eliott Remmer",
+    "project_name": "thesis-eliott",
+    "project_title": "Thesis Eliott",
+    "python_version": "3.8"
+}
